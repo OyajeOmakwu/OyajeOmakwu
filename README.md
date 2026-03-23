@@ -1,9 +1,9 @@
-# 🚀 Oyaje Omakwu
+# 🚀 Oyaje Omakwu  
 **Senior DevSecOps Engineer | Platform Security | Cloud Native**
 
-I build secure, scalable cloud platforms that enable developers to move fast—without breaking security.
+I design and build secure, scalable cloud platforms that enable developers to move fast—without compromising security.
 
-My focus is on embedding security directly into the software delivery lifecycle through automation, policy-as-code, and platform engineering.
+My focus is on embedding security directly into the software delivery lifecycle through DevSecOps, platform engineering, and policy-as-code. I specialize in Internal Developer Platforms (IDPs), secure CI/CD pipelines, and Kubernetes-based infrastructure that enforce security by default.
 
 ## 🔥 What I Do
 
