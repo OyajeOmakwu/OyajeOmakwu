@@ -90,7 +90,7 @@ I don’t just build systems—I measure outcomes:
 
 ## 🤝 Let’s Connect
 
-- 💼 Add your LinkedIn link here
+- 💼 www.linkedin.com/in/omakwuoyaje
 - 📫 Open to Senior DevSecOps / Platform Engineering opportunities
 
 ## ⚡ My Philosophy
